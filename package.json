@@ -1,0 +1,15 @@
+{
+  "name": "web-epicentre",
+  "version": "1.0.0",
+  "description": "Web App for epicentre",
+  "main": "index.html",
+  "dependencies": {
+    "watson-ml-model-utils": "^0.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

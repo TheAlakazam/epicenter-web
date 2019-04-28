@@ -1,0 +1,14 @@
+{
+    "prod": {
+        "awscloudformation": {
+            "AuthRoleName": "web-epicentre-20190428085403-authRole",
+            "UnauthRoleArn": "arn:aws:iam::545076872026:role/web-epicentre-20190428085403-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::545076872026:role/web-epicentre-20190428085403-authRole",
+            "Region": "ap-south-1",
+            "DeploymentBucketName": "web-epicentre-20190428085403-deployment",
+            "UnauthRoleName": "web-epicentre-20190428085403-unauthRole",
+            "StackName": "web-epicentre-20190428085403",
+            "StackId": "arn:aws:cloudformation:ap-south-1:545076872026:stack/web-epicentre-20190428085403/18982bb0-6965-11e9-8ab9-06bf7cfdfe80"
+        }
+    }
+}
